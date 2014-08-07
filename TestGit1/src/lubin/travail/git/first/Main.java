@@ -8,7 +8,7 @@ public class Main {
 		Employer emp1 = new Employer("lubin", "Reginald", 3500.50);
 		
 		System.out.println(emp1.toString());
-
+		System.out.println("Fin du programme.");
 	}
 
 }
